@@ -1,8 +1,5 @@
 body {
-<<<<<<< HEAD
-    background-color: lightblue;
     color: orange;
-=======
     background-color: rgb(142, 41, 197);
     color: rgb(13, 84, 18);
     font-size: 50px;
@@ -12,5 +9,4 @@ body {
 h1 {
     color: rgb(184, 0, 0);
     font-size: 100px;
->>>>>>> 5d968c5b348b891677ffb8f284bb1a07d01dac04
 }
