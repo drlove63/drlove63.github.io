@@ -1,12 +1,10 @@
-html {
-    background-image: url('drlove63.github.io/resources/images/reflection.jpg');
+body {
+    background-image: url('../images/reflection.jpg');
     background-size: cover;
     background-repeat: no-repeat;
-}
-
-body {
-    color: orange;   
-    color: rgb(13, 84, 18);
+    background-attachment: fixed;
+    background-position: center;
+    color: rgb(184, 0, 0);
     font-size: 50px;
     font-family: 'verdana';
 }
