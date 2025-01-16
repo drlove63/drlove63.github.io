@@ -1,6 +1,8 @@
 body {
     color: orange;
-    background-color: rgb(142, 41, 197);
+    background-image: url('resources/images/reflection.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
     color: rgb(13, 84, 18);
     font-size: 50px;
     font-family: 'verdana';
