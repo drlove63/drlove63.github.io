@@ -1,8 +1,11 @@
-body {
-    color: orange;
+html {
     background-image: url('resources/images/reflection.jpg');
     background-size: cover;
     background-repeat: no-repeat;
+}
+
+body {
+    color: orange;   
     color: rgb(13, 84, 18);
     font-size: 50px;
     font-family: 'verdana';
